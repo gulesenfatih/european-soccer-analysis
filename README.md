@@ -74,6 +74,18 @@ This produced a structured dataset that can be used for future player-position c
 
 ## Power BI Dashboard
 
+### Dashboard Overview
+
+![European Soccer Dashboard](dashboard_overview.png)
+
+### Player Profile & Talent Analysis
+
+![Player Analysis](player_analysis.png)
+
+### Key Influencers – Forward Position
+
+![Key Influencers Forward](key_influencers_forward.png)
+
 The Power BI report contains interactive dashboards covering:
 
 - Match and goal analysis
